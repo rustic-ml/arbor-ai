@@ -1,3 +1,7 @@
+Arbor-AI: A Name Rooted in Intelligence
+
+The name Arbor-AI, under the rustic-ml organization, elegantly captures the essence of a machine learning and artificial intelligence project. Derived from the Latin word for "tree," Arbor symbolizes the branching structures of knowledge, mirroring tree-based algorithms like decision trees or random forests, or the hierarchical frameworks often found in AI systems. It evokes organic growth, interconnected ideas, and simplicity, aligning with rustic-ml's potential focus on accessible, lightweight ML tools. Paired with AI, the name underscores a commitment to advancing intelligent systems, making Arbor-AI a fitting emblem for a project that cultivates innovative, collaborative, and robust AI solutions.
+
 ArborAI: Rust-Powered Stock OHLCV Prediction
 Overview
 ArborAI is a high-performance, Rust-based machine learning project designed to predict stock OHLCV (Open, High, Low, Close, Volume) data using decision tree-based ensemble algorithms. Leveraging Rust’s speed and safety, ArborAI integrates XGBoost, LightGBM, AdaBoost, and CatBoost (via Rust bindings or compatible libraries) to deliver accurate, scalable predictions for trading and investment strategies. By combining historical price data, technical indicators, and ensemble methods, ArborAI empowers users to optimize trading decisions and market analysis.
