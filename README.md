@@ -1,5 +1,7 @@
 Arbor-AI: A Name Rooted in Intelligence
 
+![Alt text for the image](https://github.com/rustic-ml/arbor-ai/blob/main/Arbor-Ai.png)
+
 The name Arbor-AI, under the rustic-ml organization, elegantly captures the essence of a machine learning and artificial intelligence project. Derived from the Latin word for "tree," Arbor symbolizes the branching structures of knowledge, mirroring tree-based algorithms like decision trees or random forests, or the hierarchical frameworks often found in AI systems. It evokes organic growth, interconnected ideas, and simplicity, aligning with rustic-ml's potential focus on accessible, lightweight ML tools. Paired with AI, the name underscores a commitment to advancing intelligent systems, making Arbor-AI a fitting emblem for a project that cultivates innovative, collaborative, and robust AI solutions.
 
 ArborAI: Rust-Powered Stock OHLCV Prediction
